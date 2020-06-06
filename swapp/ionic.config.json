@@ -1,0 +1,7 @@
+{
+  "name": "swapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
